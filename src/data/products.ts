@@ -31,7 +31,7 @@ export const products: Product[] = [
     name: "ADHD Weekly Planner Bundle",
     price: 39,
     etsyPrice: 45,
-    stripePriceId: "price_1TLqnl2Q07Cy8bZ2TOWIjqE0",
+    stripePriceId: "price_1TLr8ZCgXsp4lYCNCMP4oUVA",
     category: "Planners",
     tagline: "A planner that works with your ADHD brain — not against it",
     description:
@@ -56,7 +56,7 @@ export const products: Product[] = [
     name: "Solopreneur Budget & Finance Tracker",
     price: 49,
     etsyPrice: 57,
-    stripePriceId: "price_1TLqnt2Q07Cy8bZ28wrHbYMF",
+    stripePriceId: "price_1TLr8BCgXsp4lYCN6a6vFkQg",
     category: "Finance",
     tagline: "Finally know where your money goes — without hiring an accountant",
     description:
@@ -81,7 +81,7 @@ export const products: Product[] = [
     name: "Freelancer Business Template Kit",
     price: 59,
     etsyPrice: 68,
-    stripePriceId: "price_1TLqnu2Q07Cy8bZ2NTaVDG6y",
+    stripePriceId: "price_1TLr8ECgXsp4lYCNmvP7lDLx",
     category: "Business",
     tagline: "Land clients. Get paid. Look professional — from day one",
     description:
@@ -106,7 +106,7 @@ export const products: Product[] = [
     name: "Self-Care Journal Bundle",
     price: 35,
     etsyPrice: 40,
-    stripePriceId: "price_1TLqnx2Q07Cy8bZ28ZicmKZy",
+    stripePriceId: "price_1TLr8HCgXsp4lYCNwZiNeO2e",
     category: "Wellness",
     tagline: "Three journals. One bundle. A whole month of showing up for yourself",
     description:
@@ -131,7 +131,7 @@ export const products: Product[] = [
     name: "Stoic Quotes Wall Art Set of 18",
     price: 29,
     etsyPrice: 34,
-    stripePriceId: "price_1TLqo02Q07Cy8bZ2qZVtLZlR",
+    stripePriceId: "price_1TLr8KCgXsp4lYCNmvc4llzY",
     category: "Wall Art",
     tagline: "Six timeless quotes. Clean design. Wisdom on your walls",
     description:
